@@ -1,0 +1,44 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP CP1
+D Polarised capacitor
+$ENDCMP
+#
+$CMP Cristal
+D three pin crystal
+K Quartz, Ceramic, Filter, Resonator
+$ENDCMP
+#
+$CMP F
+D Fusible rearmable PTC
+K F PTC
+$ENDCMP
+#
+$CMP Ferrita
+D Choke de Ferrita
+K L Ferrita
+$ENDCMP
+#
+$CMP L
+D inductor
+$ENDCMP
+#
+$CMP LED
+K LED
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP VAR
+D Varistor
+K VR Z
+$ENDCMP
+#
+#End Doc Library

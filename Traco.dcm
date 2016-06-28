@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NMA2415SC
+D DC/DC Converter
+K Traco TSR-1
+$ENDCMP
+#
+$CMP TSR1
+D DC/DC Converter
+K Traco TSR-1
+$ENDCMP
+#
+$CMP TSR_0_5
+D DC/DC Converter 0.5A Output current
+K Traco TSR-0.5
+$ENDCMP
+#
+$CMP TSR_1
+D DC/DC Converter 1A Output current
+K Traco TSR-1
+$ENDCMP
+#
+#End Doc Library
