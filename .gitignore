@@ -1,0 +1,10 @@
+# Ignorar datasheets de componentes
+*.pdf
+
+# Ignorar ficheros bak
+*.bak
+*.bck
+
+# Ignorar otros archivos 
+*1
+*~
