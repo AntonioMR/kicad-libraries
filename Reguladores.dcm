@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1640
+D 0.65V Start-Up Synchronous Boost Regulator
+K boost regulator
+$ENDCMP
+#
+#End Doc Library
