@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NX2301P
+D 20 V, 2 A P-channel Trench MOSFET SOT23
+K P-Channel MOSFET
+F http://docs-europe.electrocomponents.com/webdocs/1206/0900766b812063c4.pdf
+$ENDCMP
+#
+#End Doc Library
