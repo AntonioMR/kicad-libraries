@@ -1,5 +1,20 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CH340G
+D USB to serial chip CH340
+K USB Serial CH340
+$ENDCMP
+#
+$CMP CH340T
+D USB to serial chip CH340
+K USB Serial CH340
+$ENDCMP
+#
+$CMP PCA9551
+D 8-channel, 12-bit PWM Fm+ I2C-bus LED controller
+K I2C PWM 
+$ENDCMP
+#
 $CMP PCA9685
 D 16-channel, 12-bit PWM Fm+ I 2 C-bus LED controller
 K I2C PWM 
